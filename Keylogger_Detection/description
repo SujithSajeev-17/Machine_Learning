@@ -1,1 +1,10 @@
-
+Keylogger is a type of spyware used to record the keystrokes done by users.
+In most cases, cybercriminals employ keyloggers to observe the victim's keystrokes and take the information from their computer or other computing devices.
+The keyloggers are generally in two categories. The first category of keyloggers is injected into the user's device to steal information through the keystrokes.
+In that case, cybercriminals mainly emphasised the stealing of credentials like user IDs and passwords that they use to log in to any website or any application.
+Every keystroke is recorded by the keyloggers and sent to the cybercriminals. In this process, cybercriminals steal confidential information through the keylogger.
+ 
+The present data (from the CIC website) contains 523617 keyloggers and benign samples. The distribution of the classes is as follows:
+ 
+Benign Data with 309415 Observations
+Keylogger Data with 214202 Observations
